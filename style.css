@@ -1161,7 +1161,7 @@ border-right: 7px solid #333C42;
 }
 
 .footer {
-  background-color: #1F2039;
+  background-color: #181824;
   color: #fff;
 }
 .footer-wave-svg {
@@ -1228,14 +1228,14 @@ text-decoration: none;
   margin-bottom: 20px;
 }
 .footer-call-to-action-button:hover {
-  background-color: #fffff2;
-  color: #1F2039;
+  background-color: #2716c2;
+  color: #919191;
 }
 .button:last-of-type {
   margin-right: 0;
 }
 .footer-call-to-action-button {
-  background-color: #8E86B5;
+  background-color: #4f31e6;
   border-radius: 21px;
   color: #fffff2;
   display: inline-block;
@@ -1281,23 +1281,9 @@ text-decoration: none;
   right: 0;
   width: 236px;
 }
-.footer-social-amoeba-svg {
-  height: 54px;
-  left: 0;
-  display: block;
-  position: absolute;
-  top: 0;
-  width: 236px;
-}
-.footer-social-amoeba-path {
-  fill: #1d0c5c;
-}
-.footer-social-link.linkedin {
-  height: 26px;
-  left: 3px;
-  top: 11px;
-  width: 26px;
-}
+
+
+
 .footer-social-link {
   display: block;
   padding: 10px;
@@ -1316,34 +1302,12 @@ text-decoration: none;
   border: 0;
   top: 50%;
 }
-.footer-social-icon-svg {
-  display: block;
-}
+
 .footer-social-icon-path {
   fill: #fffff2;
   transition: fill .2s;
 }
-.footer-social-link.twitter {
-  height: 28px;
-  left: 62px;
-  top: 3px;
-  width: 28px;
-}
-.footer-social-link.youtube {
-  height: 24px;
-  left: 123px;
-  top: 12px;
-  width: 24px;
-}
-.footer-call-to-action{
-  margin-top: 1em;
-}
-.footer-social-link.github {
-  height: 34px;
-  left: 172px;
-  top: 7px;
-  width: 34px;
-}
+
 .footer-copyright {
   background-color: #16053d;
   color: #fff;
