@@ -889,19 +889,20 @@ border-right: 7px solid #333C42;
     width: 400px;
     height: 100%;
     padding: 30px;
-    background: #fff;
+   
+    background: linear-gradient(120deg, rgba(209,205,251,0.9920343137254902) 25%, rgba(127,124,246,1) 58%, rgba(46,63,237,1) 98%);
     box-shadow: 0 0 4px rgba(55, 55, 55, 0.3);
     border-radius: 5px;
   }
   
   .wrapper .content h2 {
-    color: #444;
+    color: #252525dc;
     font-size: 30px;
     margin-bottom: 0.4em;
   }
   
   .wrapper .content p {
-    color: #3b3a3a;
+    color: #0f0f0f;
     margin-top: 2rem;
   }
   
